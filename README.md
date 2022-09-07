@@ -8,6 +8,7 @@ Filerna Hello world.c samt Subtraktion och utskrift.c utgör de program som skre
 2. Filer int_vector.h, int_vector.c samt main.c utgör den enkla dynamiska vektor för lagring av heltal som presenterades. Här såg vi dynamisk minnesallokering, 
    struktar och pekare. Filen vector.cpp visar hur vektorer implementeras via färdiga behållare i C++, vilket är normalt för alla moderna språk.
    
- Övriga två exempel demonstrerades inte under lektion, men bifogas ändå ifall intresse finns:
+ Övriga två exempel demonstrerades inte under lektionen, men bifogas ändå ifall intresse finns:
+ 
 3. Filer main.cpp samt vector.hpp visar en motsvarighet till strukten int_vector, där vektorstrukten görs generisk för att passa valfri datatyp via templates.
 4. Filen list.py demonstrerar implementering av dynamiska vektorer i Python via listor.
