@@ -15,6 +15,9 @@
 * 
 * Exempelvis för att lagra talet 100 i en konstant döpt length_of_century:
 * const int length_of_century = 100;
+*
+* Som en tumregel bör alla datamedlemmar vars värde inte skall ändras sättas till
+* konstanter, primärt för att minska risken för misstag.
 * 
 * I C används olika datatyper beroende på vad som skall lagras:
 * 
